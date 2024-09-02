@@ -1,4 +1,4 @@
--- Active: 1723722122700@@127.0.0.1@3306@covid
+
 select *
 from covid.`coviddeaths 1`
 WHERE continent is not NULL
